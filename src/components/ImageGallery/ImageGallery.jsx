@@ -23,3 +23,4 @@ ImageGallery.propTypes = {
     })
   ).isRequired,
 };
+
