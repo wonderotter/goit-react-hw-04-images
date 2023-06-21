@@ -24,6 +24,6 @@ box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2),
 
 &:hover,
 &:focus {
-  background-color: green;
+  background-color: grey;
 }
 `;
